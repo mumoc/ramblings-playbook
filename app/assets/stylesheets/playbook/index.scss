@@ -1,2 +1,8 @@
+/* DEPENDENCIES */
+@import 'bootstrap-sass/assets/stylesheets/bootstrap-sprockets';
 @import 'bootstrap-sass/assets/stylesheets/bootstrap';
+
+/* PLAYBOOK */
+@import 'base/variables';
+@import 'base/mixins';
 
