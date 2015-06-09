@@ -1,0 +1,20 @@
+{
+  "name": "playbook",
+  "version": "0.0.0",
+  "authors": [
+    "Mumo Carlos <mumo.crls@gmail.com>"
+  ],
+  "description": "playbook",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.4"
+  }
+}
